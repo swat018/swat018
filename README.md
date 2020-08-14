@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Jinwoo's github stats](https://github-readme-stats.vercel.app/api?username=swat018&show_icons=true&theme=radical)
 
 <!--
 **swat018/swat018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
